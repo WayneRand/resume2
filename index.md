@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title> RESUME </title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/WayneRand/resume2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<center>
+<h1>
+<u> MY RESUME </u>
+</h1>
+</center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3> Owen Randklev </h3>
+<h5> Moorhead MN </h5>
+<h5> owenrandklev99@gmail.com </h5>
+<h5> 433 OAKWAY MOORHEAD, MN 56560 | 701.219.9007 </h5>
 
-### Markdown
+<h2>
+<u> Career Objective </u>
+</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3 style="color:blue;"> To continue advancing the
+skills I’ve learned in the past,
+learn new skills that will aid in
+becoming a valuable member
+of a team. I am motivated by
+learning new skills and enjoy
+the analytical process of
+researching and solving
+problems.
+</h3>
+<h2>
+<u> Education </u>
+</h2>
+<h4 style="color:blue;"> HIGH SCHOOL DIPLOMA • JUNE, 2018 • MOORHEAD SENIOR HIGH
+Participated in football, baseball and wrestling. </h4>
 
-```markdown
-Syntax highlighted code block
+<h5 style="color:blue;"> MINNESOTA STATE MOORHEAD • 2018-2019
+CRIMINAL JUSTICE PROGRAM </h5>
+<h2>
+<u> Skills </u>
+</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<ul>
+	<h3 style="color:blue;">
+	<b>
+	<li> Microsoft Office
+	<li> Ability to research independently and apply the information
+	<li> Comfortable working independently or part of a team
+	<li> Able to handle multiple tasks with ease
+	<li> Capable of adapting to a professional setting or hands on physical labor
+	<li> Enjoy researching the stock market and investment opportunities </li>
+	<h3>
+	<b>
+</ul>
+<h2>
+<u> EXPERIENCE </u>
+	<b>
+	<h3 style="color:blue;">
+	<li> GROUNDSMAN • RANDKLEV SIDING • MAY 2017 – MAY 2020
+	<li> Measured and cut siding for job. Siding application. Prepped building for siding. 
 
-- Bulleted
-- List
+	<li>CASHIER AND DELIVERY DRIVER • SPICY PIE • NOVEMBER 2018 – JANUARY 2019
+	<li>Took orders over phone and in person. Prepared food. Restaurant clean up, food prep and cashier. Delivered orders to customers via company vehicle. 
+	
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WayneRand/resume2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
